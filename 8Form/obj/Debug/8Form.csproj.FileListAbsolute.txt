@@ -1,0 +1,10 @@
+D:\Wolf\8Form\8Form\bin\Debug\8Form.exe.config
+D:\Wolf\8Form\8Form\bin\Debug\8Form.exe
+D:\Wolf\8Form\8Form\bin\Debug\8Form.pdb
+D:\Wolf\8Form\8Form\obj\Debug\8Form.csprojAssemblyReference.cache
+D:\Wolf\8Form\8Form\obj\Debug\_8Form.Form1.resources
+D:\Wolf\8Form\8Form\obj\Debug\_8Form.Properties.Resources.resources
+D:\Wolf\8Form\8Form\obj\Debug\8Form.csproj.GenerateResource.cache
+D:\Wolf\8Form\8Form\obj\Debug\8Form.csproj.CoreCompileInputs.cache
+D:\Wolf\8Form\8Form\obj\Debug\8Form.exe
+D:\Wolf\8Form\8Form\obj\Debug\8Form.pdb
